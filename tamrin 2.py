@@ -1,5 +1,5 @@
 import math
-x = float((input("enter your number : ")))
+x = float(input("enter your number : "))
 op = input("choose operation : ")
 if op == "radical":
     print(math.sqrt(x))
